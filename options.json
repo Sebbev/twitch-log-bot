@@ -7,8 +7,8 @@
     "reconnect": true
   },
   "identity": {
-    "username": "bassse",
-    "password": "oauth:2rxa2py64ezl7ts4dh0ka91e6tiev3"
+    "username": "YOUR-USERNAME",
+    "password": "OAUTH_TOKEN"
   },
-  "channels": [""]
+  "channels": ["CHANNEL"]
 }
